@@ -1,6 +1,8 @@
 package test2;
 import java.util.*;
 
+//time complexity O(1)
+//it takes o(n) space since every node has to remember min value
 
 class StackMinUsingNode {
 
